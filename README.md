@@ -1,4 +1,4 @@
-# MLM4DNN (Element-based Automated DNN Repair with Fine-tuned Masked Language Model)
+# MLM4DNN (Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model)
 
 ## Overview of MLM4DNN
 
